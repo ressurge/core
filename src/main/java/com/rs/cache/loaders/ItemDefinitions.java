@@ -566,7 +566,7 @@ public final class ItemDefinitions {
 			switch(getId()) {
 			case 8846:
 				wieldRequirements.put(Constants.ATTACK, 5);
-				wieldRequirements.put(Constants.DEFENSE, 10);
+				wieldRequirements.put(Constants.DEFENSE, 5);
 				break;
 			case 8847:
 				wieldRequirements.put(Constants.ATTACK, 10);
